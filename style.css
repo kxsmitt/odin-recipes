@@ -1,0 +1,51 @@
+body {
+    background-color: gray;
+}
+
+.header {
+    display: block;
+    text-align: center;
+    background-color: black;
+    padding: 8px 24px;
+    margin: 0 auto;
+    color: white;
+}
+
+.links {
+    display: inline-block;
+    padding: 10px;
+    
+    margin: 8px;
+}
+
+.menu {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    margin-top: 8px;
+    color: white;
+}
+
+.menu a{
+    color: white;
+}
+
+.intro {
+    background-color: white;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+}
